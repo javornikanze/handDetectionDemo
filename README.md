@@ -6,6 +6,8 @@ This project demonstrates hand movement and gesture detection using Python Media
 
 ## Instructions
 
+The handTracker.exe file is larger than 100 MB so it was added using Git LFS. Make sure you have it installed when pulling the repository.
+
 ### Step 1: Launch the Hand Tracker
 1. Navigate to the `Hand Tracker` directory.
 2. Run `handTracker.exe`.
