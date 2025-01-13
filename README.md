@@ -45,7 +45,7 @@ If the executable fails, manually set up the environment and run the Python scri
 ---
 
 ### Step 3: Run the Demo
-1. Run `HandDetection.exe`.
+1. Run `Game/HandDetection.exe`.
 2. Enjoy the hand movement and gesture detection demo!
 
 ---
